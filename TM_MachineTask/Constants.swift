@@ -14,5 +14,4 @@ class Singleton {
 
 let OMDBAPI = "http://www.omdbapi.com/?"
 
-//let API_KEY = "b9bd48a6"
-let API_KEY = "3fa6980"
+let API_KEY = "b9bd48a6"
